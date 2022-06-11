@@ -1,9 +1,9 @@
-const resizeOps = () => {
-    document.documentElement.style.setProperty("--vh", window.innerHeight * 0.01 + "px");
-  };
-
-  resizeOps();
-  window.addEventListener("resize", resizeOps); 
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+</html>
 {
   box-sizing:border-box;
   font-family:'Lato', sans-serif;
