@@ -116,14 +116,14 @@ div {
 @media only screen and (max-width:500px) {
   /* For mobile phones: */
   .menu{
-    width:30%;
-    height: 20%;
+    width:100px;
+    height:150px;
   }
   .card{
     width:437px;
-    height: 400px;
+    height:400px;
   }
   .right{
-    width:10%;
-    height:20%;
+    width:100px;
+    height:150px;
   }
