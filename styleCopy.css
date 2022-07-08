@@ -14,7 +14,7 @@ html,body{
 
 .wrapper{
      display:felex;
-     width:70%;
+     width:50%;
      justify-content:space-around;
 }
 
