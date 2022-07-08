@@ -82,8 +82,8 @@ html,body{
 .card .info p{
   letter-spacing: 1px;
   font-size: 15px;
-  margin-top: 8px;
-  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 .card .info .btn{
