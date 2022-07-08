@@ -15,7 +15,6 @@ html,body{
 .wrapper{
      display:felex;
      width:90%;
-     height:200%
      justify-content:space-around;
 }
 
@@ -127,7 +126,7 @@ div {
   }
   .card{
     width:100%;
-    height: 250%;
+    height: 1000%;
   }
   .right{
     width:30%;
