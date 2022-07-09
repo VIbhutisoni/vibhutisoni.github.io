@@ -119,7 +119,7 @@ div {
     height:100%;
   } */ */
 }
-@media only screen and (max-width:500px) {
+@media only screen and (max-width:2000px) {
   /* For mobile phones: */
   .menu{
     width:30%;
