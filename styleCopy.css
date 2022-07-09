@@ -129,8 +129,11 @@ div {
     width:20%;
     height:20%;
   }
-  
-  .right{
+  .card{
+    width:10%;
+    height:20%;
+  }
+   .right{
     width:30%;
     height:20%;
   }
